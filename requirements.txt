@@ -1,6 +1,6 @@
 numpy
 pickle
-SentenceTransformer
+sentence_transformers
 streamlit
 os
 Groq
